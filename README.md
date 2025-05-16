@@ -80,7 +80,6 @@ pip install keras opencv-python openai-whisper librosa==0.10.0.post2 scikit-lear
 - Use real-time video streams and temporal emotion tracking.
 - Expand dataset diversity to reduce bias.
 
----
 
 **Conclusion**
 
